@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MidpointCircleAlgorithm.dir/main.cpp.o  -o MidpointCircleAlgorithm -lglut -lGLU -lGL 

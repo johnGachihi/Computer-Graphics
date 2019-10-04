@@ -1,0 +1,3 @@
+/home/john-gachihi/CLionProjects/Computer Graphics/MidpointCircleAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/john-gachihi/CLionProjects/Computer Graphics/MidpointCircleAlgorithm/cmake-build-debug/CMakeFiles/MidpointCircleAlgorithm.dir
+/home/john-gachihi/CLionProjects/Computer Graphics/MidpointCircleAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/john-gachihi/CLionProjects/Computer Graphics/LetLearn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/john-gachihi/CLionProjects/Computer Graphics/LetLearn/cmake-build-debug/CMakeFiles/LetLearn.dir
+/home/john-gachihi/CLionProjects/Computer Graphics/LetLearn/cmake-build-debug/CMakeFiles/edit_cache.dir

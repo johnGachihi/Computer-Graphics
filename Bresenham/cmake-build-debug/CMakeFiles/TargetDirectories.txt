@@ -1,0 +1,3 @@
+/home/john-gachihi/CLionProjects/Computer Graphics/Bresenham/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/john-gachihi/CLionProjects/Computer Graphics/Bresenham/cmake-build-debug/CMakeFiles/Bresenham.dir
+/home/john-gachihi/CLionProjects/Computer Graphics/Bresenham/cmake-build-debug/CMakeFiles/edit_cache.dir

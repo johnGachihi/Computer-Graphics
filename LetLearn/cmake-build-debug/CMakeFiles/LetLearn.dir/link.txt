@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LetLearn.dir/main.cpp.o  -o LetLearn -lglut -lGLU -lGL 
